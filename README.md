@@ -1,1 +1,1 @@
-# Machine-Learning-Stats--Excercises
+# Machine-Learning-Stats-Excercises
